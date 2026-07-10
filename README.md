@@ -20,4 +20,4 @@ Informatica student @ Hogeschool Rotterdam, building toward full-stack developme
 -  [Jofaz Adventures](https://github.com/faizyy-bug/Jofaz-Adventures) -> Python terminal-based game (first game ever built in terminal)
 -  [DodgeCube](https://github.com/faizyy-bug/DodgeCube) -> Unity 3D game, first project learning C# + Unity (Game Development)
 -  [Valorant Stats Bot](https://github.com/faizyy-bug/Discord-ValBot) -> Python bot pulling live match stats via the Riot Games API
--  [Color Bleeper](https://wokwi.com/projects/467123982117805057) -> ESP32 memory game built in MicroPython
+-  [Simon Says](https://wokwi.com/projects/467123982117805057) -> ESP32 memory game built in MicroPython
