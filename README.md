@@ -2,7 +2,7 @@
 
 Informatica student @ Hogeschool Rotterdam, building toward full-stack development with a growing interest in embedded systems / IoT.
 
--  Currently working on: CS2 Discord Bot and a small ESP32/Arduino hardware project
+-  Currently working on: Personal toolkit for Student aan Huis and a small ESP32/Arduino hardware project
 -  Learning to become a full-stack developer, mostly software (but i also love learning about hardware and building with it)
 -  Ask me about: C#, Python, Unity
 -  Based in Rotterdam, NL
